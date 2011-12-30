@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+	BBEdit codeless language module for email (for example, what comes out of Mutt when you use BBEdit as its editor)
+	Feel free to customize.
+
+	By Ryan Wilcox
+
+	Requires BBEdit 8.0 or higher. To install, copy here:
+
+		~/Library/Application Support/BBEdit/Language Modules/
+
+	and relaunch BBEdit.
+
+
+-->
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+
+	<key>BBLMLanguageCode</key>
+	<string>eMai</string>
+
+	<key>BBLMColorsSyntax</key>
+	<true/>
+
+	<key>BBLMIsCaseSensitive</key>
+	<false/>
+
+	<key>BBLMLanguageDisplayName</key>
+	<string>Email</string>
+
+	<key>BBLMScansFunctions</key>
+	<false/>
+
+    <key>BBLMCanSpellCheckCodeRuns</key>
+    <true />
+
+	<key>Language Features</key>
+	<dict>
+		<key>Open Line Comments</key>
+		<string>&gt;</string>
+
+	    <key>Identifier and Keyword Characters</key>
+        <string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz:-</string>
+
+	</dict>
+
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>From:</string>
+		<string>To:</string>
+		<string>Subject:</string>
+		<string>Cc:</string>
+		<string>BCC:</string>
+		<string>Reply-To:</string>
+	</array>
+
+</dict>
+</plist>
