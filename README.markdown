@@ -1,7 +1,7 @@
 Introduction
 ===========
 
-I wrote a blog entry about using [Mutt on OS X (and hints and tipS)](http://rwilcox.tumblr.com/post/15025043556/using-mutt-on-os-x-tips-and-tricks). If you're interested in this package in particular, you should also read the post I did on the BBEdit hints blog: [BBEdit, Email and Mutt - tips and tricks](bbedit-hints.tumblr.com/post/15025116820/bbedit-email-and-mutt-tips-and-tricks)
+I wrote a blog entry about using [Mutt on OS X (and hints and tipS)](http://rwilcox.tumblr.com/post/15025043556/using-mutt-on-os-x-tips-and-tricks). If you're interested in this package in particular, you should also read the post I did on the BBEdit hints blog: [BBEdit, Email and Mutt - tips and tricks](http://bbedit-hints.tumblr.com/post/15025116820/bbedit-email-and-mutt-tips-and-tricks)
 
 Installation
 ============
